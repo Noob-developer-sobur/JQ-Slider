@@ -111,19 +111,19 @@ ul,ol{
     background-color: rgba(0, 0, 0, 0.4);
     opacity: 1;
 }
-.button{
-    position: absolute;
-    text-align: center;
-    z-index: 1;
-    top: 59%;
-    color: #fff;/* 
-    border-radius: 20px; */
-    transition: all linear.3s;
-    background: none;
-    left: 694px;
-    border: 1px solid #fff;
-    padding: 10px 10px 10px;
-    cursor: pointer;
+.button {
+	position: absolute;
+	text-align: center;
+	z-index: 1;
+	top: 66%;
+	color: #fff;
+	/* border-radius: 20px; */
+	transition: all linear.3s;
+	background: none;
+	left: 778px;
+	border: 1px solid #fff;
+	padding: 10px 10px 10px;
+	cursor: pointer;
 }
 .button h3{
     font-family: 'Roboto', sans-serif;
